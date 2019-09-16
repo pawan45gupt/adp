@@ -1,4 +1,5 @@
 # adp
 Ice Cream Finder
-npm Install
-npm start
+# Steps to Start
+1.npm Install
+2.npm start
